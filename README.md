@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anupamakate
-- 👀 I’m interested in ... python, SQL, Machine learning, Deep Learning concepts
-- 🌱 I’m currently learning ... ML and Data Science Business Case Studies 
-- 💞️ I’m looking to collaborate my knowledge in Corporate Position as a ... Data Scientist
+- 👀 I’m interested in Python, SQL, Machine learning, Deep Learning concepts
+- 🌱 I’m currently working on ML and Data Science Business Case Studies 
+- 💞️ I’m collaborating my knowledge in Corporate Position as a Data Scientist
 
 
 <!---
